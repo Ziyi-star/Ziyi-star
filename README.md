@@ -1,8 +1,13 @@
 <h1 align="center">I'm Ziyi Liu</h1>
 
 <p align="center">
-  <img src="your-image-link.png" alt="Illustration" width="500"/>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 </p>
+
 
 ---
 
