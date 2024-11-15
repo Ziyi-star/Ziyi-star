@@ -13,10 +13,10 @@
 
 ### 👩‍💻 Dedicated to learning and passionate about programming 👨‍💻
 
-- 🎓 I am studying **Computer Science Bechelor** at **University Kassel**.
+- 🎓 I am studying **Computer Science Bechelor** at **Universität Kassel**.
 - 🤖 I am Working on a project involving **data science**, **ML** and **Anomaly Detection**.
 - 🌱 I love exploring and learning new things.
-- 💻 I also have interesst in learning web development, a little **frontend**, **backend**, **mobile app development**, and may also have this ambition to become **full-stack development** Developer.
+- 💻 I also have interesst in learning web development, a little **frontend**, **backend**, **mobile app development**, and may also have this ambition to become **full-stack** Developer.
 ---
 
 ### 🚀 Languages-Frameworks-Tools 💻
