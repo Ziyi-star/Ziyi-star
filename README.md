@@ -12,7 +12,7 @@
 - 🚀 **Full-stack Ambition**: Experienced in building applications from low-level **C** to high-level **Java** and **Python**.
 - 🛠️ **Current Focus**: Developing interactive mathematical learning materials and exploring scalable software architectures.
 - 📊 **Proven Expertise**: My Bachelor's thesis (Grade: 1.3) focused on **Deep Learning** for high-precision sensor data analysis.
-- 📄 **Portfolio**: [Download my CV (PDF)](./lebenslauf_ziyi_liu_07042026.pdf) 👈 *Upload your file to this repo!*
+- 📄 **Portfolio**: [Download my CV (PDF)](./Ziyi_Liu_Lebenslauf.pdf)
 
 ---
 
