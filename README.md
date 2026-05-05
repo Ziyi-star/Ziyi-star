@@ -38,7 +38,7 @@
 ### 🌟 Key Projects
 
 - **[Siedler von Catan](https://github.com/Ziyi-star/Game-Settlers-of-Catan)**: Implementation of a full game logic and UI in **JavaFX** (Role: Developer & Scrum Master).
-- **[Curb Detection](https://github.com/Ziyi-star/Bachelor_Project) ([Thesis](https://github.com/Ziyi-star/Bachelorarbeit))**: High-precision anomaly detection using **LSTM Autoencoders** and **Contrastive Learning**.
+- **[Curb Detection Bachelor Project](https://github.com/Ziyi-star/Bachelor_Project) ([Bachelor Thesis](https://github.com/Ziyi-star/Bachelorarbeit))**: High-precision anomaly detection using **LSTM Autoencoders** and **Contrastive Learning**.
 - **[Roboterauto](https://github.com/Ziyi-star/Autonomous_Robot)**: Hardware-level control of a robotic car using **C** and microcontrollers.
 
 ---
