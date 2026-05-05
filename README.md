@@ -22,21 +22,24 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  
 </p>
 
 ---
 
 ### 🌟 Key Projects
 
-- **Siedler von Catan**: Implementation of a full game logic and UI in **JavaFX** (Role: Developer & Scrum Master).
-- **Curb Detection**: High-precision anomaly detection using **LSTM Autoencoders** and **Contrastive Learning**[cite: 1].
-- **Roboterauto**: Hardware-level control of a robotic car using **C** and microcontrollers[cite: 1].
+- **[Siedler von Catan](https://github.com/Ziyi-star/Game-Settlers-of-Catan)**: Implementation of a full game logic and UI in **JavaFX** (Role: Developer & Scrum Master).
+- **[Curb Detection](https://github.com/Ziyi-star/Bachelor_Project)** ([Thesis](https://github.com/Ziyi-star/Bachelorarbeit)): High-precision anomaly detection using **LSTM Autoencoders** and **Contrastive Learning**.
+- **[Roboterauto](https://github.com/Ziyi-star/Autonomous_Robot)**: Hardware-level control of a robotic car using **C** and microcontrollers.
 
 ---
 
