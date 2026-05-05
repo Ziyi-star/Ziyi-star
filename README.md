@@ -1,57 +1,52 @@
-<h1 align="center">I'm Ziyi Liu</h1>
-<!--
+<h1 align="center">Hi, I'm Ziyi Liu 👋</h1>
+
 <p align="center">
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+  <strong>Computer Science Graduate (B.Sc.) | Full-stack Developer | AI & Data Science Enthusiast</strong>
 </p>
--->
 
 ---
 
-### 👩‍💻 Dedicated to learning and passionate about programming 👨‍💻
+### 👩‍💻 About Me
 
-- 🎓 I am studying **Computer Science Bechelor** at **Universität Kassel**.
-- 🤖 I am Working on a project involving **data science**, **ML** and **Anomaly Detection**.
-- 🌱 I love exploring and learning new things.
-- 💻 I also have interesst in learning web development, a little **frontend**, **backend**, **mobile app development**, and may also have this ambition to become **full-stack** Developer.
+- 🎓 **Graduate**: Recently completed my **B.Sc. in Computer Science** at **Universität Kassel** (Grade: 2.3).
+- 🚀 **Full-stack Ambition**: Experienced in building applications from low-level **C** to high-level **Java** and **Python**.
+- 🛠️ **Current Focus**: Developing interactive mathematical learning materials and exploring scalable software architectures.
+- 📊 **Proven Expertise**: My Bachelor's thesis (Grade: 1.3) focused on **Deep Learning** for high-precision sensor data analysis.
+- 📄 **Portfolio**: [Download my CV (PDF)](./lebenslauf_ziyi_liu_07042026.pdf) 👈 *Upload your file to this repo!*
+
 ---
 
-### 🚀 Languages-Frameworks-Tools 💻
+### 🛠️ Languages - Frameworks - Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <!--<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>-->
-
-  
-  <!-- Add more badges here based on your skills -->
-</p>
-
----
-<!--
-### 📊 Stats
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-  <br/>
-  <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages"/>
-  </a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+### 🌟 Key Projects
 
--->
+- **Siedler von Catan**: Implementation of a full game logic and UI in **JavaFX** (Role: Developer & Scrum Master).
+- **Curb Detection**: High-precision anomaly detection using **LSTM Autoencoders** and **Contrastive Learning**[cite: 1].
+- **Roboterauto**: Hardware-level control of a robotic car using **C** and microcontrollers[cite: 1].
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziyi-liu-a4b097283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ziyi.liu.0503@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
