@@ -45,7 +45,7 @@
 
 ### 🎬 YouTube – Mathematical Animations with Manim
 
-I create animated math explainer videos using **[Manim](https://www.manim.community/)**, covering topics such as **Linear Algebra** (vectors, matrices, transformations) and **Analysis** (limits, derivatives, integrals), supervised by **Dr. Annen Lakhal**.
+I create animated math explainer videos using **[Manim](https://www.manim.community/)**, covering topics such as **Linear Algebra** (vectors, matrices, transformations) and **Analysis** (limits, derivatives, integrals), supervised by **Dr. Anen Lakhal**.
 
 <p align="center">
   <a href="https://www.youtube.com/@Ziyi-star/videos" target="_blank">
