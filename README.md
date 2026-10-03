@@ -10,7 +10,8 @@
 
 - 🎓 **Graduate**: Recently completed my **B.Sc. in Computer Science** at **Universität Kassel**.
 - 🚀 **Full-stack Ambition**: Experienced in building applications with **Java** and **Python**.
-- 🛠️ **Current Focus**: Developing interactive mathematical learning materials and exploring LLMs and scalable softwares.
+- 💼 **Career Focus**: Currently seeking a position in software development, with a strong interest in **enterprise software** and digital business solutions.
+- 🎬 **Mathematical Videos**: Completed my project creating interactive mathematical learning materials and videos.
 - 📊 **Proven Expertise**: My Bachelor's thesis (Grade: 1.3) focused on **Deep Learning** for high-precision sensor data analysis.
 <!-- - 📄 **Portfolio**: [Download my CV (PDF)](./Ziyi_Liu_Lebenslauf.pdf) -->
 
