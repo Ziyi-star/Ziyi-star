@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ziyi Liu 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Graduate (B.Sc.) | Full-stack Developer | AI & Data Science Enthusiast</strong>
+  <strong>Computer Science Graduate (B.Sc.)</strong>
 </p>
 
 ---
